@@ -1,0 +1,14 @@
+C:\Users\Álvaro\source\repos\usphere\usphere\bin\Debug\netstandard2.0\usphere.deps.json
+C:\Users\Álvaro\source\repos\usphere\usphere\bin\Debug\netstandard2.0\usphere.dll
+C:\Users\Álvaro\source\repos\usphere\usphere\bin\Debug\netstandard2.0\ref\usphere.dll
+C:\Users\Álvaro\source\repos\usphere\usphere\bin\Debug\netstandard2.0\usphere.pdb
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\usphere.csprojAssemblyReference.cache
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\usphere.AssemblyInfoInputs.cache
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\usphere.AssemblyInfo.cs
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\usphere.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\usphere.dll
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\ref\usphere.dll
+C:\Users\Álvaro\source\repos\usphere\usphere\obj\Debug\netstandard2.0\usphere.pdb

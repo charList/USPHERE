@@ -1,0 +1,7 @@
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\build.props
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\adb.props
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\usphere.Android.csprojAssemblyReference.cache
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Álvaro\source\repos\usphere\usphere.Android\obj\Debug\90\res.flag
