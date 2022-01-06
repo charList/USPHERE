@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj",
+      "projectUniqueName": "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj",
       "projectName": "usphere",
-      "projectPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj",
+      "projectPath": "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj",
       "packagesPath": "C:\\Users\\Álvaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\obj\\",
+      "outputPath": "C:\\Fork\\USPHERE\\usphere\\usphere\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

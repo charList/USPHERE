@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="usphere.Views.ViewsAcceso.StartPage"
+             BackgroundColor="WhiteSmoke">
+
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackLayout Grid.Column="0" Grid.Row="2" HorizontalOptions="Center" Spacing="10">
+                    <Frame Padding="0,4,0,4" HasShadow="True">
+                        <Button Text="Login" HeightRequest="70" WidthRequest="185" TextColor="Black" BackgroundColor="LightSlateGray" FontSize="30" Clicked="LogIn_Clicked"></Button>
+                    </Frame>
+                    <Frame Padding="0,4,0,4" HasShadow="True">
+                        <Button Text="Join us" HeightRequest="70" WidthRequest="185" TextColor="Black" BackgroundColor="LightSlateGray" FontSize="30"></Button>
+                    </Frame>
+                </StackLayout>
+                
+            </Grid>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

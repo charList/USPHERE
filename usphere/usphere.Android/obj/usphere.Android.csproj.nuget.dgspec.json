@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere.Android\\usphere.Android.csproj": {}
+    "C:\\Fork\\USPHERE\\usphere\\usphere.Android\\usphere.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere.Android\\usphere.Android.csproj": {
+    "C:\\Fork\\USPHERE\\usphere\\usphere.Android\\usphere.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere.Android\\usphere.Android.csproj",
+        "projectUniqueName": "C:\\Fork\\USPHERE\\usphere\\usphere.Android\\usphere.Android.csproj",
         "projectName": "usphere.Android",
-        "projectPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere.Android\\usphere.Android.csproj",
+        "projectPath": "C:\\Fork\\USPHERE\\usphere\\usphere.Android\\usphere.Android.csproj",
         "packagesPath": "C:\\Users\\Álvaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere.Android\\obj\\",
+        "outputPath": "C:\\Fork\\USPHERE\\usphere\\usphere.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj": {
-                "projectPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj"
+              "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj": {
+                "projectPath": "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj": {
+    "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj",
+        "projectUniqueName": "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj",
         "projectName": "usphere",
-        "projectPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj",
+        "projectPath": "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj",
         "packagesPath": "C:\\Users\\Álvaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\obj\\",
+        "outputPath": "C:\\Fork\\USPHERE\\usphere\\usphere\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

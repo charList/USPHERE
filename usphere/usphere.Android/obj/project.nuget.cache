@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QeYvOuDo8sr7++9DUaOpvtF6PdDyPhjqa032yJHDm/L0mUHL48ltom1lp2osNTkE7k2a60h4ZhhnAjiY4J3MJw==",
+  "dgSpecHash": "HwG29oR/egwbkVyqMgYACw0qWTRQIoGVSCeYIsaAyVee75WJFswDao40b72rNm8XLpgektX2YPWH8KTMA1XIiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere.Android\\usphere.Android.csproj",
+  "projectFilePath": "C:\\Fork\\USPHERE\\usphere\\usphere.Android\\usphere.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

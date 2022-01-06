@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lDuhm0s0o16/1dm0Xfwm4ho7ozX7dKEekljSoD26NSVokMbC1698lhMHgGiI/wA1Hck3y9T2ZIINDByGY/Nu2g==",
+  "dgSpecHash": "9j7AIBn1Ab0vGtoKiN5Rp179r59tf/3pYzcTfZmXpiW7kGvDlu7fhwaVgbgkLQIA5/rgl9ZoqOQRHjCIxqMnSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Álvaro\\source\\repos\\usphere\\usphere\\usphere.csproj",
+  "projectFilePath": "C:\\Fork\\USPHERE\\usphere\\usphere\\usphere.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Álvaro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Álvaro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
