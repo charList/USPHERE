@@ -27,3 +27,4 @@ C:\Fork\USPHERE\usphere\usphere\obj\Debug\netstandard2.0\usphere.dll
 C:\Fork\USPHERE\usphere\usphere\obj\Debug\netstandard2.0\ref\usphere.dll
 C:\Fork\USPHERE\usphere\usphere\obj\Debug\netstandard2.0\usphere.pdb
 C:\Fork\USPHERE\usphere\usphere\obj\Debug\netstandard2.0\Views\ViewsAcceso\LoginPage.xaml.g.cs
+C:\Fork\USPHERE\usphere\usphere\obj\Debug\netstandard2.0\Views\procesosGenerales\MainPage.xaml.g.cs

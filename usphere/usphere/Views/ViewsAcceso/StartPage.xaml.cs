@@ -15,6 +15,7 @@ namespace usphere.Views.ViewsAcceso
         public StartPage()
         {
             InitializeComponent();
+
         }
 
         private void LogIn_Clicked(object sender, EventArgs e)

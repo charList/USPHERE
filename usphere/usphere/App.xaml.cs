@@ -2,6 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using usphere.Views.ViewsAcceso;
+using usphere.Views.procesosGenerales;
 
 namespace usphere
 {
@@ -11,7 +12,8 @@ namespace usphere
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new StartPage());
+            //MainPage = new NavigationPage(new StartPage());
+            MainPage = new NavigationPage(new MainPage());
     
         }
 
